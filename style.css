@@ -11,7 +11,6 @@
 body {
   background-image: url(public/bg.jpg);
   background-size: cover;
-
 }
 
 #page {
@@ -60,7 +59,7 @@ h1, h2 {
   justify-content: center;
   font-size: 16px;
 
-  margin: 28px 0px 48px 0px;
+  margin: 28px auto 48px;
 
   color: #F0E8C2;
 }
